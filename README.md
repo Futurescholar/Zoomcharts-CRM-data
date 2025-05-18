@@ -37,7 +37,7 @@ Power BI
     - Country, Product, Month, Industry, Agent, Organization
 ---
 ## Dashboard Picture 
-![Dashboard[Screenshot%(90).png]]
+![Dashboard](Screenshot%(90).png)
 ## Key Observations
 - France and Germany have the highest number of leads (474 and 420 respectively), but Italy has the highest Closed Deal Value ($220.01K) with a strong average deal value ($2,751.16).
 - Switzerland has the highest Conversion Rate at 13.16%, followed closely by Italy (13.75%) and Netherlands (15.00%).
